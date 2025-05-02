@@ -51,7 +51,7 @@ Setup Instructions
 
 To install this App, download the pre-built APK from the releases section.
 
-1. Go to the G5_HSV_Newcomers_Guide GitHub repository on the Android device on which you want to install the App.
+1. Go to the [G5_HSV_Newcomers_Guide](https://github.com/marshnj/G5_HSV_Newcomers_Guide) GitHub repository on the Android device on which you want to install the App.
 
 2. Navigate to the repository's releases page: Go to the GitHub repository and look for a "Releases" tab or link. 
 
