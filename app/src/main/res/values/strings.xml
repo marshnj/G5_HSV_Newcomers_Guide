@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Huntsville Newcomers Guide</string>
+    <string name="apartments">Apartment Image</string>
+    <string name="entertainment">Entertainment Image</string>
+    <string name="government">Government Image</string>
+    <string name="hotels">Hotel Image</string>
+    <string name="museum">Museum Image</string>
+    <string name="park">Park Image</string>
+    <string name="realestate">Real Estate Company Image</string>
+    <string name="restaurant">Restaurant Image</string>
+    <string name="newsletter">Newsletter Image</string>
+    <string name="btEnter">Enter Data</string>
+</resources>
